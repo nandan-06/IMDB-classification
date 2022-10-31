@@ -10,3 +10,6 @@
 - 1 layer with 1 unit output and activation of `sigmoid`.
 - Splitted the training data into train and validation dataset.
 - Trained the model with 20 epochs.
+- Plotted the graphs of loss and accuracy of training and validation scores against epochs.
+- Trained the new model on the optimal number of epochs on complete training dataset.
+- Used that model to predict values on test dataset.
